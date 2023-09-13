@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="webpage/images/logo.png" alt="Logo" height="80">
+    <img src="img/css.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Small CSS Projects</h3>
@@ -23,7 +23,9 @@
 Wanted to get better at css ao started watching some tutorials on youtube. Just a freetime project folder for css/html.
 
   <a>
-    <img src="documents/img/Slide16_9-1.png" alt="frontpage">
+    <img src="img/1.png" alt="frontpage" width="500px">
+    <img src="img/2.png" alt="frontpage" width="500px">
+    <img src="img/3.png" alt="frontpage" width="500px">
   </a>
 
 <!-- GETTING STARTED -->
